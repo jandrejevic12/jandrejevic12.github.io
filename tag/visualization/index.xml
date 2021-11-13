@@ -5,7 +5,7 @@
     <link>https://jandrejevic12.github.io/tag/visualization/</link>
       <atom:link href="https://jandrejevic12.github.io/tag/visualization/index.xml" rel="self" type="application/rss+xml" />
     <description>Visualization</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Visualization</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Principal component analysis with van Gogh</title>
       <link>https://jandrejevic12.github.io/project/pca_van_gogh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/project/pca_van_gogh/</guid>
       <description>&lt;p&gt;This project uses a collection of van Gogh&amp;rsquo;s paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh&amp;rsquo;s Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh&amp;rsquo;s eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.&lt;/p&gt;
 &lt;p&gt;Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the &lt;a href=&#34;https://sites.google.com/view/harvard-data-science-animation/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Data Science Animation Challenge&lt;/a&gt;.&lt;/p&gt;

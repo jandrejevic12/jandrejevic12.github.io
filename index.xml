@@ -239,6 +239,16 @@ $$&lt;/p&gt;
     </item>
     
     <item>
+      <title>Principal component analysis with van Gogh</title>
+      <link>https://jandrejevic12.github.io/project/pca_van_gogh/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/project/pca_van_gogh/</guid>
+      <description>&lt;p&gt;This project uses a collection of van Gogh&amp;rsquo;s paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh&amp;rsquo;s Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh&amp;rsquo;s eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.&lt;/p&gt;
+&lt;p&gt;Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the &lt;a href=&#34;https://sites.google.com/view/harvard-data-science-animation/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Data Science Animation Challenge&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>An example conference paper</title>
       <link>https://jandrejevic12.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
@@ -263,16 +273,6 @@ $$&lt;/p&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/admin/config.yml</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Principal component analysis with van Gogh</title>
-      <link>https://jandrejevic12.github.io/project/pca_van_gogh/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/project/pca_van_gogh/</guid>
-      <description>&lt;p&gt;This project uses a collection of van Gogh&amp;rsquo;s paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh&amp;rsquo;s Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh&amp;rsquo;s eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.&lt;/p&gt;
-&lt;p&gt;Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the &lt;a href=&#34;https://sites.google.com/view/harvard-data-science-animation/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Data Science Animation Challenge&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
