@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>https://jandrejevic12.github.io/</link>
-      <atom:link href="https://jandrejevic12.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jandrejevic.github.io/</link>
+      <atom:link href="https://jandrejevic.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jandrejevic.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
-      <link>https://jandrejevic12.github.io/</link>
+      <link>https://jandrejevic.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://jandrejevic12.github.io/talk/example-talk/</link>
+      <link>https://jandrejevic.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/talk/example-talk/</guid>
+      <guid>https://jandrejevic.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,9 +34,9 @@
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://jandrejevic12.github.io/post/getting-started/</link>
+      <link>https://jandrejevic.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/post/getting-started/</guid>
+      <guid>https://jandrejevic.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://jandrejevic12.github.io/slides/example/</link>
+      <link>https://jandrejevic.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/slides/example/</guid>
+      <guid>https://jandrejevic.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -240,9 +240,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>Principal component analysis with van Gogh</title>
-      <link>https://jandrejevic12.github.io/project/pca_van_gogh/</link>
+      <link>https://jandrejevic.github.io/project/pca_van_gogh/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/project/pca_van_gogh/</guid>
+      <guid>https://jandrejevic.github.io/project/pca_van_gogh/</guid>
       <description>&lt;p&gt;This project uses a collection of van Gogh&amp;rsquo;s paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh&amp;rsquo;s Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh&amp;rsquo;s eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.&lt;/p&gt;
 &lt;p&gt;Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the &lt;a href=&#34;https://sites.google.com/view/harvard-data-science-animation/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Data Science Animation Challenge&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -250,9 +250,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>An example conference paper</title>
-      <link>https://jandrejevic12.github.io/publication/example/</link>
+      <link>https://jandrejevic.github.io/publication/example/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/publication/example/</guid>
+      <guid>https://jandrejevic.github.io/publication/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -269,9 +269,9 @@ $$&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://jandrejevic12.github.io/admin/config.yml</link>
+      <link>https://jandrejevic.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/admin/config.yml</guid>
+      <guid>https://jandrejevic.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
