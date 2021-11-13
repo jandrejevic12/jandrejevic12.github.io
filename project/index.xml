@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>https://jandrejevic.github.io/project/</link>
-      <atom:link href="https://jandrejevic.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jandrejevic12.github.io/project/</link>
+      <atom:link href="https://jandrejevic12.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jandrejevic.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>https://jandrejevic.github.io/project/</link>
+      <link>https://jandrejevic12.github.io/project/</link>
     </image>
     
     <item>
       <title>Principal component analysis with van Gogh</title>
-      <link>https://jandrejevic.github.io/project/pca_van_gogh/</link>
+      <link>https://jandrejevic12.github.io/project/pca_van_gogh/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic.github.io/project/pca_van_gogh/</guid>
+      <guid>https://jandrejevic12.github.io/project/pca_van_gogh/</guid>
       <description>&lt;p&gt;This project uses a collection of van Gogh&amp;rsquo;s paintings to shed light on a versatile tool in data science: principal component analysis. A hallmark of van Gogh&amp;rsquo;s Impressionist style was its rendition of only the essential features of his subjects, favoring simpler representations accomplished with broad brush strokes and bold color palettes. In turn, principal component analysis can be thought of as a view through van Gogh&amp;rsquo;s eyes: By reducing a collection of data only to those essential features which capture the greatest variability across the dataset, it provides a simpler representation of high-dimensional data.&lt;/p&gt;
 &lt;p&gt;Please check out the Github repository for a detailed description of the project! In 2019, it was awarded first place in the &lt;a href=&#34;https://sites.google.com/view/harvard-data-science-animation/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard Data Science Animation Challenge&lt;/a&gt;.&lt;/p&gt;
 </description>
