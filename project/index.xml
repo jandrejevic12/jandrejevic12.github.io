@@ -5,12 +5,40 @@
     <link>https://jandrejevic12.github.io/project/</link>
       <atom:link href="https://jandrejevic12.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://jandrejevic12.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Computational modeling of crumpling dynamics</title>
+      <link>https://jandrejevic12.github.io/project/crumpling_sim/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/project/crumpling_sim/</guid>
+      <description>&lt;p&gt;As part of my current research with Prof. Chris Rycroft, I have been developing a large-scale simulation of thin, elastoplastic sheets to aid our study and analysis of crumpling dynamics. The simulation is implemented in C++ and multithreaded using OpenMP. Specific components of the numerical implementation will be discussed separately; the video below demonstrates one example simulation of a thin sheet radially confined into a ball.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://jandrejevic12.github.io/project/crumpling_sim/radial_crumple.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;The sheet is modeled as a triangulated lattice of discrete nodes which interact with their neighbors via stretching, bending, and damping forces. The example shown consists of 46767 nodes and 92716 triangles distributed randomly in a square domain. The sheet is compressed by a radial potential that mimics a spherical shell with decreasing radius. Short-range repulsive forces enforce the sheet’s self-avoidance, and plastic damage accumulates as regions of the sheet develop a large enough local curvature. Particularly interesting is the observation of individual snap-throughs of flat surfaces as the sheet locks in creases. The cross-sectional view midway through the video also reveals a high degree of layering of the sheet. After compressing for a time, the radius of the enclosing shell begins to increase, allowing the crumpled sheet to relax. The relaxed state of the sheet displays permanent plastic damage.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Principal component analysis with van Gogh</title>
