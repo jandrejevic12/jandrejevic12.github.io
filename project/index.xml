@@ -45,7 +45,8 @@
       <link>https://jandrejevic12.github.io/project/generative_art/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/project/generative_art/</guid>
-      <description>&lt;p&gt;Together with Nina Andrejevic, George Varnavides, and Amina Matt, I helped to design and co-facilitate a winter workshop on generative art at MIT in January of 2020. The course emphasizes mathematical and natural examples of pattern formation such as fractals, cellular automata, swarming and self-organization, and emergent structure in reaction-diffusion processes. The content of the course includes both relevant theory behind these examples, as well as effective strategies for implementation in code. A fun introductory example is the following implementation of the Koch curve, magnified up to 243 times:&lt;/p&gt;
+      <description>&lt;p&gt;Together with Nina Andrejevic, George Varnavides, and Amina Matt, I helped to design and co-facilitate a winter workshop on generative art at MIT in January of 2020. The course emphasizes mathematical and natural examples of pattern formation such as fractals, cellular automata, swarming and self-organization, and emergent structure in reaction-diffusion processes. The content of the course includes both relevant theory behind these examples, as well as effective strategies for implementation in code.&lt;/p&gt;
+&lt;p&gt;Material from past iterations can be found on the course&amp;rsquo;s &lt;a href=&#34;https://github.com/gvarnavi/generative-art-iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -64,26 +65,6 @@
 &lt;video autoplay loop  &gt;
   &lt;source src=&#34;https://jandrejevic12.github.io/project/generative_art/koch_curve.mp4&#34; type=&#34;video/mp4&#34;&gt;
 &lt;/video&gt;
-&lt;p&gt;We also explore cellular automata in 2D, such as the following pattern:&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video autoplay loop  &gt;
-  &lt;source src=&#34;https://jandrejevic12.github.io/project/generative_art/cell_automata.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;p&gt;Material from past iterations can be found on the course&amp;rsquo;s &lt;a href=&#34;https://github.com/gvarnavi/generative-art-iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
