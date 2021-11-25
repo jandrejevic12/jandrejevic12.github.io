@@ -5,7 +5,7 @@
     <link>https://jandrejevic12.github.io/tag/science-in-the-news/</link>
       <atom:link href="https://jandrejevic12.github.io/tag/science-in-the-news/index.xml" rel="self" type="application/rss+xml" />
     <description>Science in the News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 30 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Science in the News</title>
@@ -14,9 +14,49 @@
     
     <item>
       <title></title>
+      <link>https://jandrejevic12.github.io/graphics/graph_theory/</link>
+      <pubDate>Mon, 30 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/graphics/graph_theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://jandrejevic12.github.io/graphics/bobtail_squid/</link>
       <pubDate>Thu, 27 May 2021 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/graphics/bobtail_squid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jandrejevic12.github.io/graphics/alpha_fold/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/graphics/alpha_fold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jandrejevic12.github.io/graphics/ribosomes/</link>
+      <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/graphics/ribosomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jandrejevic12.github.io/graphics/calorie_restriction/</link>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/graphics/calorie_restriction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jandrejevic12.github.io/graphics/covid_testing/</link>
+      <pubDate>Mon, 18 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/graphics/covid_testing/</guid>
       <description></description>
     </item>
     
