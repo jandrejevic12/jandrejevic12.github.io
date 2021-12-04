@@ -5,75 +5,12 @@
     <link>https://jandrejevic12.github.io/project/</link>
       <atom:link href="https://jandrejevic12.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://jandrejevic12.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>Computational modeling of crumpling dynamics</title>
-      <link>https://jandrejevic12.github.io/project/crumpling_sim/</link>
-      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/project/crumpling_sim/</guid>
-      <description>&lt;p&gt;As part of my current research, I have been developing a large-scale simulation of thin, elastoplastic sheets to aid our study and analysis of crumpling dynamics.&lt;/p&gt;
-&lt;p&gt;A popular model for elastic materials is a mass-spring system: a collection of discrete nodes that interact with their neighbors via linear springs. This simple framework can accurately reproduce continuum elastic properties of the material.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
-               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_d7477de3b3547e64780ad5035c4fee71.png 400w,
-               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_e4d5d25cb2b51b0089cbdbdf0bfd2f83.png 760w,
-               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://jandrejevic12.github.io/project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_d7477de3b3547e64780ad5035c4fee71.png&#34;
-               width=&#34;760&#34;
-               height=&#34;225&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-&lt;p&gt;In our work, we build on the widely-used elastic membrane model of Seung and Nelson&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and extend it to simulate self-avoiding, elastoplastic sheets. A key consideration in our implementation is the numerical procedure used to integrate the equations of motion for the sheet. We recognize that a sheet undergoing crumpling exhibits deformations on two different timescales: a slower timescale for wide-range smooth deformation, and a faster timescale for rapid buckling and local changes in velocity. This motivates two different formulations of the equations of motion: a quasistatic formulation in which acceleration is approximated as zero, and a dynamic formulation that retains acceleration as non-negligible. The quasistatic formulation may be efficiently integrated using an implicit scheme, while the dynamic formulation is handled explicitly. The complete model is implemented in C++ and multithreaded using OpenMP, and a paper for this work is currently in preparation.&lt;/p&gt;
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-&lt;video controls  &gt;
-  &lt;source src=&#34;https://jandrejevic12.github.io/project/crumpling_sim/radial_crumple.mp4&#34; type=&#34;video/mp4&#34;&gt;
-&lt;/video&gt;
-&lt;p&gt;The video above demonstrates one example simulation of a thin sheet radially confined into a ball. The sheet is modeled by 46767 nodes and 92716 triangles distributed randomly in a square domain. The sheet is compressed by a radial potential that mimics a spherical shell with decreasing radius. Short-range repulsive forces enforce the sheet’s self-avoidance, and plastic damage accumulates as regions of the sheet develop a large enough local curvature. Particularly interesting is the observation of individual snap-throughs of flat surfaces as the sheet locks in creases. The cross-sectional view midway through the video also reveals a high degree of layering of the sheet. After compressing for a time, the radius of the enclosing shell begins to increase, allowing the crumpled sheet to relax. At the end, the relaxed state of the sheet displays permanent plastic damage.&lt;/p&gt;
-&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
-&lt;p&gt;Seung, Hyunjune Sebastian, and David R. Nelson. &amp;ldquo;Defects in flexible membranes with crystalline order.&amp;rdquo; &lt;em&gt;Physical Review A&lt;/em&gt; 38.2 (1988): 1005.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/section&gt;
-</description>
-    </item>
     
     <item>
       <title>Statistical properties of crumpled sheets</title>
@@ -320,9 +257,72 @@
     </item>
     
     <item>
+      <title>Computational modeling of crumpling dynamics</title>
+      <link>https://jandrejevic12.github.io/project/crumpling_sim/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/project/crumpling_sim/</guid>
+      <description>&lt;p&gt;As part of my current research, I have been developing a large-scale simulation of thin, elastoplastic sheets to aid our study and analysis of crumpling dynamics.&lt;/p&gt;
+&lt;p&gt;A popular model for elastic materials is a mass-spring system: a collection of discrete nodes that interact with their neighbors via linear springs. This simple framework can accurately reproduce continuum elastic properties of the material.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;&#34; srcset=&#34;
+               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_d7477de3b3547e64780ad5035c4fee71.png 400w,
+               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_e4d5d25cb2b51b0089cbdbdf0bfd2f83.png 760w,
+               /project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://jandrejevic12.github.io/project/crumpling_sim/mass_spring_model_hu8b814f376e16fa40746302a2d0f11dce_822428_d7477de3b3547e64780ad5035c4fee71.png&#34;
+               width=&#34;760&#34;
+               height=&#34;225&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;p&gt;In our work, we build on the widely-used elastic membrane model of Seung and Nelson&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; and extend it to simulate self-avoiding, elastoplastic sheets. A key consideration in our implementation is the numerical procedure used to integrate the equations of motion for the sheet. We recognize that a sheet undergoing crumpling exhibits deformations on two different timescales: a slower timescale for wide-range smooth deformation, and a faster timescale for rapid buckling and local changes in velocity. This motivates two different formulations of the equations of motion: a quasistatic formulation in which acceleration is approximated as zero, and a dynamic formulation that retains acceleration as non-negligible. The quasistatic formulation may be efficiently integrated using an implicit scheme, while the dynamic formulation is handled explicitly. The complete model is implemented in C++ and multithreaded using OpenMP, and a paper for this work is currently in preparation.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://jandrejevic12.github.io/project/crumpling_sim/radial_crumple.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;The video above demonstrates one example simulation of a thin sheet radially confined into a ball. The sheet is modeled by 46767 nodes and 92716 triangles distributed randomly in a square domain. The sheet is compressed by a radial potential that mimics a spherical shell with decreasing radius. Short-range repulsive forces enforce the sheet’s self-avoidance, and plastic damage accumulates as regions of the sheet develop a large enough local curvature. Particularly interesting is the observation of individual snap-throughs of flat surfaces as the sheet locks in creases. The cross-sectional view midway through the video also reveals a high degree of layering of the sheet. After compressing for a time, the radius of the enclosing shell begins to increase, allowing the crumpled sheet to relax. At the end, the relaxed state of the sheet displays permanent plastic damage.&lt;/p&gt;
+&lt;section class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34; role=&#34;doc-endnote&#34;&gt;
+&lt;p&gt;Seung, Hyunjune Sebastian, and David R. Nelson. &amp;ldquo;Defects in flexible membranes with crystalline order.&amp;rdquo; &lt;em&gt;Physical Review A&lt;/em&gt; 38.2 (1988): 1005.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/section&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Generative art workshop</title>
       <link>https://jandrejevic12.github.io/project/generative_art/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/project/generative_art/</guid>
       <description>&lt;p&gt;Together with Nina Andrejevic, George Varnavides, and Amina Matt, I helped to design and co-facilitate a winter workshop on generative art at MIT in January of 2020. The course emphasizes mathematical and natural examples of pattern formation such as fractals, cellular automata, swarming and self-organization, and emergent structure in reaction-diffusion processes. The content of the course includes both relevant theory behind these examples, as well as effective strategies for implementation in code.&lt;/p&gt;
 &lt;p&gt;Material from past iterations can be found on the course&amp;rsquo;s &lt;a href=&#34;https://github.com/gvarnavi/generative-art-iap&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository&lt;/a&gt;.&lt;/p&gt;
