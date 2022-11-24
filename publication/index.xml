@@ -5,12 +5,20 @@
     <link>https://jandrejevic12.github.io/publication/</link>
       <atom:link href="https://jandrejevic12.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jandrejevic12.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jandrejevic12.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Machine-learning spectral indicators of topology</title>
+      <link>https://jandrejevic12.github.io/publication/adv_mat_2022/</link>
+      <pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://jandrejevic12.github.io/publication/adv_mat_2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A model for the fragmentation kinetics of crumpled thin sheets</title>
@@ -33,22 +41,6 @@
       <link>https://jandrejevic12.github.io/publication/comm_phys_2018/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       <guid>https://jandrejevic12.github.io/publication/comm_phys_2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Simulation of crumpled sheets via alternating quasistatic and dynamic representations</title>
-      <link>https://jandrejevic12.github.io/publication/arxiv_2021/</link>
-      <pubDate>Sat, 02 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/publication/arxiv_2021/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine learning spectral indicators of topology</title>
-      <link>https://jandrejevic12.github.io/publication/arxiv_2020/</link>
-      <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>https://jandrejevic12.github.io/publication/arxiv_2020/</guid>
       <description></description>
     </item>
     
